@@ -40,4 +40,5 @@ btn2.addEventListener("click", handleButton2);
 
 copyDiv.addEventListener("click", () => {
   navigator.clipboard.writeText(copyDiv.innerText);
+  alert('Text copied to clipboard')
 });
