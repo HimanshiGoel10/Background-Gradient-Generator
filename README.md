@@ -10,4 +10,4 @@
 
 ## Deployed Link
 
-https://himanshi-background-gradientgenerator.netlify.app/
+You can try the live demo [here](https://himanshi-background-gradientgenerator.netlify.app/).
